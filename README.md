@@ -1,6 +1,6 @@
 # ys-3d-editor
 
-JavaScript 3D editor by ys3d
+JavaScript 3D editor by threejs (ys3d)
 
 ## Project setup
 ```
